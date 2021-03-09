@@ -6,8 +6,7 @@ The spiritus website is the website of the Spiritus discord bot accessible <a hr
 ## How to install
 
 1. Clone the repo.
-2. Modify `/models/config.php` .
-3. Modify `/models/db.php` .
+2. Go to the `index.html` page
 
 ## Contributions/Licence
 
