@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+html {
+    background-color:#2c2f33;
+    color: #fff
+}
+body{
+    background-color:#2c2f33;
+    color: #fff;
+}
+.baniere-nav{
+    width:250px;
+}
+.head{
+    margin-top: 15px;
+    width:9%;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.fonctions{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 75px;
+    text-align: center;
+}
+a.bouton3{
+    padding: 10px 80px;
+    /*margin-bottom:15px;*/
+    background: #d91414;
+    color: #000000;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    border: 2px solid #d91414;
+    color:white;
+    text-decoration:none;
+}
+a.bouton3:hover {
+   /* margin-bottom:15px;*/
+    background: #ad0c0c;
+    border: 2px solid #ad0c0c;
+    color:white;
+    text-decoration:none;
+}
+
+/*
+//=============PAGE COMMANDES============
+*/
+table{
+    border-collapse: collapse
+}
+
+th{
+border: 1px solid #fff;
+padding: 10px;
+color : #fff;
+}
+.bord{
+border: 1px solid #fff;
+padding: 10px;
+}
+td{
+    color : #fff;
+    font-size : 20px;
+}
+h4{
+    color :#fff;
+}
+
+
+
+.souligneTitreCommandes{
+    text-decoration:underline;
+}
+/*
+//=============MISE EN FORME TEXTE============
+*/
