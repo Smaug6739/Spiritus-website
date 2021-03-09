@@ -1,0 +1,32 @@
+@media  screen and (max-width: 1280px) and (orientation: portrait){
+html{
+    zoom : 1
+}
+.baniere-nav{
+    max-width:190px;
+}
+.fonctions{
+    display:flex;
+    flex-direction:column;
+    margin-top: 75px;
+    text-align: center ;
+ 
+}
+h4{
+    font-size: 17px;
+}
+
+/*
+//=============PAGE COMMANDES============
+*/
+#zoom{
+    zoom: 0.45;
+}
+.bord{
+    font-size: 15px;
+}
+.souligneTitreCommandes{
+    text-decoration:underline;
+    font-size: 20px;
+}
+}
